@@ -1,5 +1,5 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "appVersionCode": 1,
   "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
   "updateButtonText": "Update",
